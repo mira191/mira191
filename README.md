@@ -1,5 +1,9 @@
 •👋 Hi, I’m Mira
-•👀 I’m interested in Web Development. •🌱 I’m currently learning HTML, CSS & JavaScript
+
+•👀 I’m interested in Web Development. 
+
+•🌱 I’m currently learning HTML, CSS & JavaScript
+
 •⚡ Fun fact: I make the best homemade 🍔.
 
 <!---
