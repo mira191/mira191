@@ -1,15 +1,8 @@
-•👋 Hi, I’m Mira
-
+•👩🏻‍💻 Hi! This is Mira.
 •👀 I’m interested in Web Development. 
-
-•🌱 I’m currently learning HTML, CSS & JavaScript
-
+•🌱 I’m currently learning HTML, CSS & JavaScript.
 •⚡ Fun fact: I make the best homemade 🍔.
-Hi there 👋  
-	• 👩🏻‍💻 This is Mira.  
-	• 👀 I’m interested in Web Development.  
-	• 🌱 I’m currently learning HTML, CSS & JavaScript.  
-	• ⚡ Fun fact: I make the best homemade 🍔.  
+
 
 <!---
 mira191/mira191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
